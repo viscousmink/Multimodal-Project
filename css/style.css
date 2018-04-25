@@ -10,6 +10,11 @@ body {
     line-height: 1.8 !important;
 }
 
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
 html {
 	overflow-x:hidden;
 }
